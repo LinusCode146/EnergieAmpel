@@ -22,7 +22,7 @@ export default function Home(props) {
           <>
             <Card
               title={"Rote Ampel"}
-              description={'adsfasdkf'}
+              description={'Wenige erneuerbare Energien'}
               color={colors[card - 1]}
             />
             <Card
