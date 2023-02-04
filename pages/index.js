@@ -78,10 +78,12 @@ export default function Home(props) {
       </Cardgrid>
 
       <script
+          async={true}
         type="module"
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
       ></script>
       <script
+          async={true}
         nomodule
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
       ></script>
